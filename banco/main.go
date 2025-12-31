@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//Criando uma struct
 type ContaCorrente struct {
 	titular       string
 	numeroAgencia int
